@@ -2,7 +2,7 @@
 - 👀 I’m interested in the Collatz Conjecture.
 - 🌱 I’m currently learning Android App Development in the ASSET Project.
 - 📫 How to reach me: email: hasibulislamsourov1234@gmail.com
-                      facebook: facebook.com/haisourav 
+                      facebook: facebook.com/haisourov 
 
 <!---
 unknown2143h/unknown2143h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
