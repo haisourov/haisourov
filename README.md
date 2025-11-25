@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hasibul Islam Sourov
 - 👀 I’m interested in the Collatz Conjecture.
-- 🌱 I’m currently learning Python and C.
+- 🌱 I’m currently learning Android App Development in the ASSET Project.
 - 📫 How to reach me: email: hasibulislamsourov1234@gmail.com
                       facebook: facebook.com/haisourav 
 
